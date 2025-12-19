@@ -1,1 +1,12 @@
-Hello World
+## 1. What is a Version Control System (VCS)?
+
+A Version Control System tracks changes in source code over time.
+It allows developers to save versions, revert changes, and collaborate safely.
+
+---
+
+## 2. What is Git?
+
+Git is a **distributed version control system** that stores the complete history of a project locally and tracks changes using snapshots.
+
+---
